@@ -57,3 +57,7 @@
 - Deferred or rejected areas / reasons:
 - Sources / freshness / maintenance:
 - Durable content decisions:
+
+## Content scope and scientific basis
+
+GFP and purple tomatoes are based on Nobel Prize and John Innes Centre research explanations linked from the app. Pigment pathway is explicitly hypothetical; knockout definition sourced to NHGRI. Use plain Japanese and distinguish addition, gene regulation, and loss of function. All displayed color/intensity/maturity relationships are illustrative, not measured predictions. Both comparison arms use the same environment and maturity. No exact DNA sequences, lab protocols, medical efficacy, or numeric success probabilities. Sources checked 2026-09-07.
