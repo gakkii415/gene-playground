@@ -54,3 +54,7 @@
 - Deferred or rejected items / reasons:
 - Important flows / states / data decisions:
 - Durable feature decisions:
+
+## Implemented product
+
+Three independent experiments: GFP addition with expression/light controls; purple tomato regulation with maturity control; hypothetical pigment pathway with two knockout switches. Immediate before/after diagrams, causal explanation, per-experiment reset, tab state retention, keyboard tab navigation. No backend, accounts, or data collection. Educational model, not a sequence-based predictor. Repeated-use needs covered by reversible controls and reset. DNA editor and cloud persistence deferred: outside the beginner comparison task.

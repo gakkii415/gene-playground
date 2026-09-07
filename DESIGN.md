@@ -361,3 +361,15 @@ Yesの場合、装飾を追加する前に、構成、情報階層、コンテ�
 - Typography / color / spacing / shape direction:
 - Motion / responsive direction:
 - Durable design decisions:
+
+## Gene Playground — GSAP reference
+
+- Audience: beginner, Japanese, smartphone first. Primary task: change gene function and compare phenotypes immediately.
+- Reference: user-supplied Gsap Style Reference; animated chalkboard, warm cream type, outlined controls, category colors, bracket annotations.
+- Canvas #0e100f; text #fffce1; panel #191919; divider #42433d. Secondary text #b0b0a1 chosen for readable contrast. Accent palette #abff84, #ff8709, #fec5fb, #9d95ff, #00bae2. Biology diagram colors encode phenotype rather than UI categories.
+- DM Sans 400/600 with Noto Sans JP for Japanese. Font fallback remains usable when Google Fonts is unavailable. Body 16px, regular labels minimum 14px. Desktop heading up to 60px, mobile 28–32px; do not put the requested activity below a 224px marketing hero.
+- Transparent pill buttons with 1px cream outlines and 100px radius; no filled CTA, no shadows. Segmented tabs 8px radius, selected border plus accessible state. Borderless scientific observation surface.
+- Compared structures: long staged wizard versus freely selected experiments with before/after workspace. Selected latter to avoid prerequisites and excessive scrolling.
+- Desktop: observations left, controls right. Mobile: horizontal comparisons, compact title, observation remains visible on tall screens while controls scroll; short screens use normal flow. No text overlays on diagrams.
+- SVGs are functional scientific diagrams driven by model state, not photographs or accurate organism reconstructions. Reduced-motion respects device preference; short result fade only when the outcome changes.
+- Source and limitations live in a collapsible explanation. No unsupported health claims, real sequences, or experimental protocols.
